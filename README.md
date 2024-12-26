@@ -2,6 +2,8 @@
 
 A sorted list of polite words from the English language.
 
+The main purpose of this GitHub repo is to hold the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file.
+
 # FAQ
 
 ## Q: What is a polite word?
@@ -18,16 +20,16 @@ Some applications that need a list of word include:
 
 - password generators
 - word of the day generators
-- poem generators
+- random poem generators
 - etc.
 
 Applications that word to remain polite and wish to avoid offending someone, may use our polite English language word list.
 
 ## Q: Are you the "word police"?
 
-**A**: No.  We believe you are **free to use whatever words you wish, including words those use might seem "_impolite_" to some.
+**A**: No.  We **STRONGLY** believe you are **free to use whatever words you wish, including words those use might seem "_impolite_" to some.
 
-We are simply providing a list of words that might  freely use while being polite.
+We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/polite.english.words.txt) that run a lower risk of offending most reasonable people.
 
 ## Q: What if I find an impolite word in your list?
 
@@ -57,7 +59,7 @@ If, given the above, you find a misspelled word, then  please open a [pull reque
 
 ## Q: What is allowed in the polite English language word list?
 
-**A**: Beyond being polite, this word list only contains English language words.
+**A**: Beyond being polite, the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file only contains English language words.
 
 Words many only contain these ASCII characters followed by an ASCII newline:
 
@@ -65,7 +67,7 @@ Words many only contain these ASCII characters followed by an ASCII newline:
 - ASCII lower-case letters (a-z)
 - ASCII Apostrophe (')
 
-No other characters are allowed.  For example, we do not allow ASCII space is our word list.
+No other characters are allowed.  For example, we do not allow ASCII space is our words.
 
 Both Capitalize and all lower-case words are allowed.
 
@@ -73,23 +75,23 @@ We accept a wide variety of English language spellings, including those spelling
 
 ## Q: How is the list of words sorted?
 
-We sort the word list using the Unix / Linux command:
+We sort the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file using the Unix / Linux command:
 
 ```sh
-LC_ALL=C sort -d -f
+LC_ALL=C sort -d -f -o polite.english.words.txt polite.english.words.txt
 ```
 
 This produces a common "_dictionary_" order where the case of letters is ignored while sorting.
 
 ## Q: How to a use the polite English language word list?
 
-Simply download the polite English language word list and use it in your application.
+Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file and use it in your application!
 
 ## Q: Am I allowed to use your word list?
 
 **A**: You are most certainly allowed to use our word list.
 
-The polite English language word list provided under the [CC0-1.0 license](https://github.com/lcn2/polite.words?tab=CC0-1.0-1-ov-file#readme). The effect of this license:
+The [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) is provided under the [CC0-1.0 license](https://github.com/lcn2/polite.words?tab=CC0-1.0-1-ov-file#readme). The effect of this license:
 
 - Declare that there is "No Copyright".
 - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
