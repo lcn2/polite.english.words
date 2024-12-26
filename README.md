@@ -4,6 +4,14 @@ A sorted list of polite words from the English language.
 
 The main purpose of this GitHub repo is to hold the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file.
 
+## TL:DR how to install
+
+```sh
+git clone https://github.com/lcn2/polite.english.words.git
+cd polite.english.words
+sudo make install
+```
+
 # FAQ
 
 ## Q: What is a polite word?
@@ -83,9 +91,23 @@ LC_ALL=C sort -d -f -o polite.english.words.txt polite.english.words.txt
 
 This produces a common "_dictionary_" order where the case of letters is ignored while sorting.
 
+If you refer to use the `Makefile`, then just do:
+
+```sh
+make sort
+```
+
 ## Q: How to a use the polite English language word list?
 
 Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file and use it in your application!
+
+If you wish, you may use the install role from the `Makefile` as root:
+
+```sh
+sudo make install
+```
+
+This will install the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file as `/usr/local/share/polite.words/polite.english.words.txt`.
 
 ## Q: Am I allowed to use your word list?
 
