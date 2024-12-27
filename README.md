@@ -35,7 +35,7 @@ Applications that word to remain polite and wish to avoid offending someone, may
 
 ## Q: Are you the "word police"?
 
-**A**: No.  We **STRONGLY** believe you are **free to use whatever words you wish, including words those use might seem "_impolite_" to some.
+**A**: No.  We **STRONGLY** believe you are **free to use** whatever words you wish, including words those use might seem "_impolite_" to some.
 
 We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/polite.english.words.txt) that run a lower risk of offending most reasonable people.
 
@@ -108,7 +108,11 @@ If you wish, you may use the install role from the `Makefile` as root:
 sudo make install
 ```
 
-This will install the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file as `/usr/local/share/polite.words/polite.english.words.txt`.
+This will install the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file as:
+
+```
+    /usr/local/share/polite.words/polite.english.words.txt
+```
 
 ## Q: Am I allowed to use your word list?
 
