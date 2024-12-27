@@ -74,8 +74,9 @@ Words many only contain these ASCII characters followed by an ASCII newline:
 - ASCII UPPER-CASE LETTERS (A-Z)
 - ASCII lower-case letters (a-z)
 - ASCII Apostrophe (')
+- ASCII dash (-)
 
-No other characters are allowed.  For example, we do not allow ASCII space is our words.
+No other characters are allowed.  For example, we do not allow the ASCII space in our words.
 
 Both Capitalize and all lower-case words are allowed.
 
