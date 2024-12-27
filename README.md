@@ -37,7 +37,7 @@ Applications that word to remain polite and wish to avoid offending someone, may
 
 **A**: No.  We **STRONGLY** believe you are **free to use** whatever words you wish, including words those use might seem "_impolite_" to some.
 
-We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/polite.english.words.txt) that run a lower risk of offending most reasonable people.
+We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) that run a lower risk of offending most reasonable people.
 
 ## Q: What if I find an impolite word in your list?
 
@@ -67,7 +67,7 @@ If, given the above, you find a misspelled word, then  please open a [pull reque
 
 ## Q: What is allowed in the polite English language word list?
 
-**A**: Beyond being polite, the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file only contains English language words.
+**A**: Beyond being polite, the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file only contains English language words.
 
 Words many only contain these ASCII characters followed by an ASCII newline:
 
@@ -84,7 +84,7 @@ We accept a wide variety of English language spellings, including those spelling
 
 ## Q: How is the list of words sorted?
 
-We sort the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file using the Unix / Linux command:
+We sort the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file using the Unix / Linux command:
 
 ```sh
 LC_ALL=C sort -d -f -o polite.english.words.txt polite.english.words.txt
@@ -100,7 +100,7 @@ make sort
 
 ## Q: How to a use the polite English language word list?
 
-Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file and use it in your application!
+Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file and use it in your application!
 
 If you wish, you may use the install role from the `Makefile` as root:
 
@@ -108,7 +108,7 @@ If you wish, you may use the install role from the `Makefile` as root:
 sudo make install
 ```
 
-This will install the [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file as:
+This will install the [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file as:
 
 ```
     /usr/local/share/polite.words/polite.english.words.txt
@@ -118,7 +118,7 @@ This will install the [polite English language word list](https://github.com/lcn
 
 **A**: You are most certainly allowed to use our word list.
 
-The [polite English language word list](https://github.com/lcn2/polite.english.words/polite.english.words.txt) is provided under the [CC0-1.0 license](https://github.com/lcn2/polite.words?tab=CC0-1.0-1-ov-file#readme). The effect of this license:
+The [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) is provided under the [CC0-1.0 license](https://github.com/lcn2/polite.words?tab=CC0-1.0-1-ov-file#readme). The effect of this license:
 
 - Declare that there is "No Copyright".
 - You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
