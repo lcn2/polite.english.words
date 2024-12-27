@@ -2,7 +2,7 @@
 
 A sorted list of polite words from the English language.
 
-The main purpose of this GitHub repo is to hold the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/polite.english.words.txt) file.
+The main purpose of this GitHub repo is to hold the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file.
 
 ## TL:DR how to install
 
