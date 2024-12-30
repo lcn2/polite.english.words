@@ -4062,9 +4062,6 @@ Anthony
 Anthony's
 anthracite
 anthracite's
-Anthrax
-anthrax
-anthrax's
 Anthropocene
 anthropocentric
 anthropoid
@@ -7429,6 +7426,7 @@ bagpipe's
 bagpipes
 bag's
 bags
+bagsy
 baguette
 baguette's
 baguettes
@@ -9404,6 +9402,7 @@ below
 Belshazzar
 Belshazzar's
 belt
+belta
 Beltane
 Beltane's
 belted
@@ -10510,9 +10509,6 @@ bisector
 bisector's
 bisectors
 bisects
-bisexual
-bisexuality
-bisexuality's
 Bishkek
 Bishkek's
 Bishop
@@ -10938,6 +10934,7 @@ blessing
 blessing's
 blessings
 bletch
+blether
 Blevins
 Blevins's
 blew
@@ -11604,6 +11601,7 @@ bog
 boga
 Bogart
 Bogart's
+bogde
 bogey
 bogeyed
 bogeying
@@ -11870,6 +11868,7 @@ bonnets
 Bonneville
 Bonneville's
 Bonnie
+bonnie
 bonnier
 Bonnie's
 bonniest
@@ -18770,6 +18769,7 @@ chops
 chopstick
 chopstick's
 chopsticks
+chopsy
 choral
 chorale
 chorale's
@@ -20992,7 +20992,6 @@ colourisation
 colourise
 colourised
 colourises
-colourist
 colourist
 colourists
 colourless
@@ -26234,6 +26233,7 @@ CVS
 CVS's
 cw
 cwt
+cwtch
 cyan
 cyanide
 cyanide's
@@ -27087,7 +27087,6 @@ deadlock
 deadlocked
 deadlocking
 deadlock's
-deadlocks
 deadlocks
 deadly
 deadpan
@@ -31550,6 +31549,7 @@ divulge
 divulged
 divulges
 divulging
+divvent
 divvied
 divvies
 divvy
@@ -32695,6 +32695,7 @@ dredges
 dredging
 dregs
 dregs's
+dreich
 Dreiser
 Dreiser's
 drench
@@ -50187,6 +50188,7 @@ hinge's
 hinges
 hinging
 hings
+hinny
 hint
 hinted
 hinter
@@ -51481,6 +51483,7 @@ Hovhaness's
 how
 Howard
 Howard's
+howay
 howbeit
 how'd
 howdah
@@ -51511,6 +51514,7 @@ how're
 how's
 hows
 howsoever
+hoy
 hoyden
 hoydenish
 hoyden's
@@ -64632,7 +64636,6 @@ malnutrition
 malnutrition's
 malocclusion
 malocclusion's
-malodorous
 Malone
 Malone's
 Malory
@@ -68286,7 +68289,6 @@ Minuit
 Minuit's
 minus
 minuscule
-minuscule
 minuscule's
 minuscules
 minuses
@@ -70725,6 +70727,7 @@ Munro
 Munro's
 Munster
 Munster's
+munud
 Muppet
 Muppet's
 mural
@@ -78819,9 +78822,6 @@ Pedro's
 peduncle
 peduncle's
 peduncles
-pee
-peed
-peeing
 peek
 peekaboo
 peekaboo's
@@ -79020,6 +79020,7 @@ penetrations
 penetrative
 penfriend
 penfriends
+peng
 penguin
 penguin's
 penguins
@@ -79447,7 +79448,6 @@ perishers
 perishes
 perishing
 peristalses
-peristalsis
 peristalsis
 peristalsis's
 peristaltic
@@ -95373,6 +95373,7 @@ sconces
 scone
 scone's
 scones
+scooby
 scoop
 scooped
 scoopful
@@ -95551,6 +95552,7 @@ scrambling
 scrammed
 scramming
 scrams
+scran
 Scranton
 Scranton's
 scrap
@@ -97154,7 +97156,6 @@ Seville's
 Sevres
 Sevres's
 sew
-sewage
 sewage's
 Seward
 Seward's
@@ -97168,12 +97169,9 @@ sewing
 sewing's
 sewn
 sews
-sex
 sexagenarian
 sexagenarian's
 sexagenarians
-sexes
-sexologist's
 Sextans
 Sextans's
 sextant
@@ -100552,11 +100550,6 @@ snobbishness's
 snobby
 snob's
 snobs
-snog
-snogged
-snogging
-snoggings
-snogs
 snood
 snood's
 snoods
@@ -119881,6 +119874,7 @@ why'd
 why's
 whys
 WI
+wibble
 Wicca
 Wicca's
 Wichita
