@@ -33,9 +33,11 @@
 CHMOD= chmod
 CP= cp
 INSTALL= install
+MV= mv
 RM= rm
 SHELL= bash
 SORT= sort
+UNIQ= uniq
 
 ######################
 # target information #
@@ -57,8 +59,16 @@ all: ${TARGETS}
 
 .PHONY: all configure clean clobber install sort
 
+# Perform a canonical sort, removing duplicate words
+#
+# NOTE: We cannot use sort -d -f -u because that would remove words
+# 	that differ by letter case.
+#
 sort: polite.english.words.txt
-	LC_ALL=C ${SORT} -d -f -o polite.english.words.txt polite.english.words.txt
+	TMP=".tmp.$$.polite.english.words.txt.tmp" ; \
+	    ${RM} -f "$$TMP" ; \
+	    LC_ALL=C ${SORT} -d -f polite.english.words.txt | ${UNIQ} > "$$TMP" ; \
+	    ${MV} -f "$$TMP" polite.english.words.txt
 
 ###################################
 # standard Makefile utility rules #
@@ -68,10 +78,10 @@ configure:
 	@echo nothing to configure
 
 clean:
-	:@
+	@:
 
 clobber: clean
-	:@
+	${RM} -f .tmp.*.polite.english.words.txt.tmp
 
 install: all sort
 	${INSTALL} -m 0755 -d ${DESTDIR}
