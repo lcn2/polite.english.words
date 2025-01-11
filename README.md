@@ -86,7 +86,7 @@ Words many only contain these ASCII characters followed by an ASCII newline:
 
 No other characters are allowed.  For example, we do not allow the ASCII space in our words.
 
-Both Capitalize and all lower-case words are allowed.
+Both Capitalized and all lower-case word forms are allowed.
 
 We accept a wide variety of English language spellings, including those spellings commonly used in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Canada 🇨🇦, Australia 🇦🇺, New Zealand 🇳🇿, United States 🇺🇸, etc.
 
@@ -95,7 +95,10 @@ We accept a wide variety of English language spellings, including those spelling
 We sort the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file using the Unix / Linux command:
 
 ```sh
-LC_ALL=C sort -d -f -o polite.english.words.txt polite.english.words.txt
+TMP=".tmp.$$.polite.english.words.txt.tmp"
+rm -f "$TMP"
+LC_ALL=C sort -d -f polite.english.words.txt | uniq > "$TMP"
+mv -f "$TMP" polite.english.words.txt
 ```
 
 This produces a common "_dictionary_" order where the case of letters is ignored while sorting.
@@ -133,7 +136,7 @@ The [polite English language word list](https://github.com/lcn2/polite.english.w
 
 See the [CC0 1.0 UNIVERSAL](https://creativecommons.org/publicdomain/zero/1.0/) for more information.
 
-If you **DO USE OUE LIST**, we ask (but you are **NOT** required to):
+If you **DO USE OUR LIST**, we ask (but you are **NOT** required to):
 
 - GitHub star ⭐️ this repo
 - GitHub watch 👁️ this repo
