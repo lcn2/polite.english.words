@@ -45,11 +45,11 @@ We are simply providing a list of [polite English language words](https://github
 
 If you find a word in our list that you think should be removed, then please open a [pull request](https://github.com/lcn2/polite.words/pulls) that removes those word(s).
 
-If you do wish remove words from our list, then we ask that you consider in your same [pull request](https://github.com/lcn2/polite.words/pulls) to add some new words to keep the polite English language word list long.   See below for "Q: How do I add polite English language words to your list?" as well as for "Q: What is allowed in the word list?".
+If you do wish remove words from our list, then we ask that you consider in your same [pull request](https://github.com/lcn2/polite.words/pulls) to add some new words to keep the polite English language word list long.  See below for "Q: How do I add polite English language words to your list?" as well as for "Q: What is allowed in the word list?".
 
 ## Q: Why is a given word not in your list?
 
-A word may be missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file simply because nobody has added it so far.  In some cases a otherwise perfectly polite word may have been removed because in combination with other words, the word in question would be considered impolite by most people.  It is also possible that the word may have been removed by mistake.
+A word may be missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file simply because nobody has added it so far.  In some cases an otherwise perfectly polite word may have been removed because in combination with other words, the word in question would be considered impolite by most people.  It is also possible that the word may have been removed by mistake.
 
 If you find a polite word that is missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file, then **PLEASE** open a [pull request](https://github.com/lcn2/polite.words/pulls) to recommend that the polite word be added.
 
@@ -69,9 +69,9 @@ See below for "Q: What is allowed in the polite English language word list?".
 
 You may find English language spellings that are not preferred in your region but are elsewhere in the English world in common use.  Please do not try to change the spelling of such words.
 
-There are also words that some people consider to be "incorrect", such as "thru".  Please do not try to change the spelling such words.
+There are also words that some people consider to be "incorrect", such as "thru".  Please do not try to change the spelling of such words.
 
-If, given the above, you find a misspelled word, then  please open a [pull request](https://github.com/lcn2/polite.words/pulls) that corrects the spelling.
+If, given the above, you find a misspelled word, then please open a [pull request](https://github.com/lcn2/polite.words/pulls) that corrects the spelling.
 
 ## Q: What is allowed in the polite English language word list?
 
