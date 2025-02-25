@@ -32,6 +32,7 @@
 
 CHMOD= chmod
 CP= cp
+DIFF= diff
 INSTALL= install
 MV= mv
 RM= rm
@@ -69,6 +70,11 @@ sort: polite.english.words.txt
 	    ${RM} -f "$$TMP" ; \
 	    LC_ALL=C ${SORT} -d -f polite.english.words.txt | ${UNIQ} > "$$TMP" ; \
 	    ${MV} -f "$$TMP" polite.english.words.txt
+
+# like sort but compares output with the sorted and current, for workflows on
+# GitHub
+test: test.sh
+	@./test.sh
 
 ###################################
 # standard Makefile utility rules #
