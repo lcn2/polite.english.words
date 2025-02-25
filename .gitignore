@@ -1,0 +1,5 @@
+.DS_Store
+*.dSYM/
+.test.*words
+.sw[a-zA-Z0-9]
+.*.sw[a-zA-Z0-9]*
