@@ -143,3 +143,8 @@ If you **DO USE OUR LIST**, we ask (but you are **NOT** required to):
 - Adding a comment about your use to [Discussion #0](https://github.com/lcn2/polite.english.words/discussions/1)
 
 Thank you!
+
+
+# Reporting Security Issues
+
+To report a security issue, please visit "[Reporting Security Issues](https://github.com/lcn2/polite.english.words/security/policy)".
