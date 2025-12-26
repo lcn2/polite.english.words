@@ -19,7 +19,7 @@ sudo make install
 
 ## Q: What is a polite word?
 
-**A**: Polite is defined in some dictionaries define polite as "`having or showing behavior that is respectful and considerate of others`".
+**A**: Polite is defined in some dictionaries as "`having or showing behavior that is respectful and considerate of others`".
 
 A polite word is a word that one might use while being polite.
 
@@ -28,19 +28,19 @@ A polite word is a word that one might use while being polite.
 
 **A**: There are applications that need to choose words from a large list of words.  Such applications wish, when using those words, to be polite (i.e., they try avoiding offending someone).
 
-Some applications that need a list of word include:
+Some applications that need a list of words include:
 
 - password generators
 - word of the day generators
 - random poem generators
 - etc.
 
-Applications that prefer to remain polite and wish to avoid offending someone, may use our polite English language word list.
+Applications that prefer to remain polite and wish to avoid offending someone may use our polite English language word list.
 
 
 ## Q: Are you the "word police"?
 
-**A**: No.  We **STRONGLY** believe you are **free to use** whatever words you wish, including words those use might seem "_impolite_" to some.
+**A**: No.  We **STRONGLY** believe you are **free to use** whatever words you wish, including words whose use might seem "_impolite_" to some.
 
 We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) that run a lower risk of offending most reasonable people.
 
@@ -58,7 +58,7 @@ See below for "Q: How do I add polite English language words to your list?" as w
 
 ## Q: Why is a given word not in your list?
 
-A word may be missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file simply because nobody has added it so far.  In some cases an otherwise perfectly polite word may have been removed because in combination with other words, the word in question would be considered impolite by most people.  It is also possible that the word may have been removed by mistake.
+A word may be missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file simply because nobody has added it so far.  In some cases, an otherwise perfectly polite word may have been removed because in combination with other words, the word in question would be considered impolite by most people.  It is also possible that the word may have been removed by mistake.
 
 If you find a polite word that is missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file, then **PLEASE** open a [pull request](https://github.com/lcn2/polite.words/pulls) to recommend that the polite word be added.
 
@@ -75,7 +75,7 @@ See below for "Q: What is allowed in the polite English language word list?".
 
 ## Q: What if I find a misspelled word in your list?
 
-**A**: Keep in mind that accept a wide variety of English language spellings, including those spellings commonly used in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Canada 🇨🇦, Australia 🇦🇺, New Zealand 🇳🇿, United States 🇺🇸, etc.
+**A**: Keep in mind that we accept a wide variety of English language spellings, including those spellings commonly used in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Canada 🇨🇦, Australia 🇦🇺, New Zealand 🇳🇿, United States 🇺🇸, etc.
 
 You may find English language spellings that are not preferred in your region but are elsewhere in the English world in common use.  Please do not try to change the spelling of such words.
 
@@ -88,7 +88,7 @@ If, given the above, you find a misspelled word, then please open a [pull reques
 
 **A**: Beyond being polite, the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file only contains English language words.
 
-Words many only contain these ASCII characters followed by an ASCII newline:
+Words may only contain these ASCII characters followed by an ASCII newline:
 
 - ASCII UPPER-CASE LETTERS (A-Z)
 - ASCII lower-case letters (a-z)
@@ -122,7 +122,7 @@ make sort
 ```
 
 
-## Q: How to a use the polite English language word list?
+## Q: How to use the polite English language word list?
 
 Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file and use it in your application!
 
@@ -146,7 +146,7 @@ This will install the [polite English language word list](https://github.com/lcn
 The [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) is provided under the [CC0-1.0 license](https://github.com/lcn2/polite.words?tab=CC0-1.0-1-ov-file#readme). The effect of this license:
 
 - Declare that there is "No Copyright".
-- You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+- You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
 
 See the [CC0 1.0 UNIVERSAL](https://creativecommons.org/publicdomain/zero/1.0/) for more information.
 
