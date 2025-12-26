@@ -31,7 +31,7 @@ Some applications that need a list of word include:
 - random poem generators
 - etc.
 
-Applications that word to remain polite and wish to avoid offending someone, may use our polite English language word list.
+Applications that prefer to remain polite and wish to avoid offending someone, may use our polite English language word list.
 
 ## Q: Are you the "word police"?
 
