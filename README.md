@@ -4,6 +4,7 @@ A sorted list of polite words from the English language.
 
 The main purpose of this GitHub repo is to hold the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file.
 
+
 ## TL:DR how to install
 
 ```sh
@@ -12,13 +13,16 @@ cd polite.english.words
 sudo make install
 ```
 
+
 # FAQ
+
 
 ## Q: What is a polite word?
 
 **A**: Polite is defined in some dictionaries define polite as "`having or showing behavior that is respectful and considerate of others`".
 
 A polite word is a word that one might use while being polite.
+
 
 ## Q: Why is a list of polite English language words needed?
 
@@ -33,11 +37,13 @@ Some applications that need a list of word include:
 
 Applications that prefer to remain polite and wish to avoid offending someone, may use our polite English language word list.
 
+
 ## Q: Are you the "word police"?
 
 **A**: No.  We **STRONGLY** believe you are **free to use** whatever words you wish, including words those use might seem "_impolite_" to some.
 
 We are simply providing a list of [polite English language words](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) that run a lower risk of offending most reasonable people.
+
 
 ## Q: What if I find an impolite word in your list?
 
@@ -45,7 +51,10 @@ We are simply providing a list of [polite English language words](https://github
 
 If you find a word in our list that you think should be removed, then please open a [pull request](https://github.com/lcn2/polite.words/pulls) that removes those word(s).
 
-If you do wish remove words from our list, then we ask that you consider in your same [pull request](https://github.com/lcn2/polite.words/pulls) to add some new words to keep the polite English language word list long.  See below for "Q: How do I add polite English language words to your list?" as well as for "Q: What is allowed in the word list?".
+While not a requirement, consider in your same [pull request](https://github.com/lcn2/polite.words/pulls) to add some new words to keep the polite English language word list long.
+
+See below for "Q: How do I add polite English language words to your list?" as well as for "Q: What is allowed in the word list?".
+
 
 ## Q: Why is a given word not in your list?
 
@@ -54,6 +63,7 @@ A word may be missing from the [polite.english.words.txt](https://github.com/lcn
 If you find a polite word that is missing from the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file, then **PLEASE** open a [pull request](https://github.com/lcn2/polite.words/pulls) to recommend that the polite word be added.
 
 See below for the "Q: How do I add polite English language words to your list?".
+
 
 ## Q: How do I add polite English language words to your list?
 
@@ -73,6 +83,7 @@ There are also words that some people consider to be "incorrect", such as "thru"
 
 If, given the above, you find a misspelled word, then please open a [pull request](https://github.com/lcn2/polite.words/pulls) that corrects the spelling.
 
+
 ## Q: What is allowed in the polite English language word list?
 
 **A**: Beyond being polite, the [polite.english.words.txt](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file only contains English language words.
@@ -89,6 +100,7 @@ No other characters are allowed.  For example, we do not allow the ASCII space i
 Both Capitalized and all lower-case word forms are allowed.
 
 We accept a wide variety of English language spellings, including those spellings commonly used in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿, Canada 🇨🇦, Australia 🇦🇺, New Zealand 🇳🇿, United States 🇺🇸, etc.
+
 
 ## Q: How is the list of words sorted?
 
@@ -109,6 +121,7 @@ If you refer to use the `Makefile`, then just do:
 make sort
 ```
 
+
 ## Q: How to a use the polite English language word list?
 
 Simply download the [polite English language word list](https://github.com/lcn2/polite.english.words/blob/master/polite.english.words.txt) file and use it in your application!
@@ -124,6 +137,7 @@ This will install the [polite English language word list](https://github.com/lcn
 ```
     /usr/local/share/polite.words/polite.english.words.txt
 ```
+
 
 ## Q: Am I allowed to use your word list?
 
