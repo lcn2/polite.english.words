@@ -15551,7 +15551,6 @@ antepredicamental
 antepreterit
 antepretonic
 anteprohibition
-anteprostate
 anteprostatic
 antepyretic
 antequalm
@@ -17308,7 +17307,6 @@ antiprohibition
 antiprohibitionist
 antiprojectivity
 antiprophet
-antiprostate
 antiprostatic
 antiprotease
 antiproteolysis
@@ -272350,7 +272348,6 @@ postprocessor
 postprophesy
 postprophetic
 postprophetical
-postprostate
 postpubertal
 postpuberty
 postpubescent
@@ -281649,12 +281646,6 @@ prostaglandin
 prostas
 prostasis
 prostatauxe
-prostate
-prostatectomies
-prostatectomy
-prostatelcosis
-prostate's
-prostates
 prostatic
 prostaticovesical
 prostatism
